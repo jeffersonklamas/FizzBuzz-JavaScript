@@ -6,5 +6,5 @@ Ainda no início do processo de aprendizagem com relação a JavaScript.
 
 
 
-##### Tenha boas idéias.
+##### Tenha boas idéias. Lembre de **Se Divertir Sempre**.
 
