@@ -15,7 +15,7 @@ function fizzBuzz(entrada) {
         return 'Não é um número';
     // Divisivel por 3 e 5 => 'FizzBuzz'
     if ((entrada % 3 === 0) && (entrada % 5 === 0))
-        return 'FizzBuss';
+        return 'FizzBuzz';
     // Divisivel por 3 => 'Fizz'
     if (entrada % 3 === 0)
         return 'Fizz';
